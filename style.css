@@ -1,0 +1,15 @@
+table,
+thead {
+	border: 1opx solid black;
+	border-collapse: collapse;
+}
+tr,
+td,
+th {
+	padding: 3%;
+	margin: 2%;
+	border: 1px solid black;
+}
+th {
+	padding: 1% !important;
+}
